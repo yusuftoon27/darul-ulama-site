@@ -1,0 +1,114 @@
+{
+  "common": {
+    "donate_now": "Hadda Deeq",
+    "learn_more": "Wax badan baro",
+    "contact_us": "Nala soo xiriir",
+    "connect": "Nala soo xiriir",
+    "copied": "Waa la koobiyeeyay!",
+    "copy_number": "Koobiyeey lambarka",
+    "all_rights": "Xuquuqda oo dhan waa dhowran tahay."
+  },
+  "nav": {
+    "home": "Hoyga",
+    "about": "Nagu saabsan",
+    "services": "Adeegyada",
+    "contact": "Nala soo xiriir",
+    "logo_text": "DARUL-ULAMA",
+    "logo_alt": "Astaanta Ururka Islaamiga ah ee Darul-Ulama"
+  },
+  "footer": {
+    "tagline": "Dhisidda aqoonta, taageeridda ardayda, iyo xoojinta Umadda tan iyo 2012.",
+    "quick_links": "Xiriirada Degdegga ah",
+    "contact": "Nala soo xiriir",
+    "islamic_quote": "Xadiis",
+    "quote_text": "Qofkii khayr dadka ku hanuuniya wuxuu leeyahay ajir la mid ah kan sameeyey.",
+    "quote_author": "Nabiga (NNKH)"
+  },
+  "hero": {
+    "title": "URURKA ISLAAMIGA AH EE DARUL-ULAMA",
+    "subtitle": "Dhisidda aqoonta, taageeridda ardayda, iyo xoojinta Umadda.",
+    "cta_mission": "Ku soo biir hadafka"
+  },
+  "about_preview": {
+    "label": "Yaan Nahay",
+    "title": "Awood siinta jiilka soo socda ee culimada",
+    "text": "La aasaasay 2012 G.C., Darul-Ulama Majlis waa hay'ad Islaami ah oo lagu ixtiraamo baridda aqoonta Islaamka ee saxda ah. Waxay ka soo bilaabatay 300 oo arday waxayna noqotay xarun u adeegta ku dhawaad 5,000 oo arday oo ka kala yimid guud ahaan Itoobiya.",
+    "cta": "Inbadan naga baro"
+  },
+  "impact": {
+    "title": "Saamayntayada sii kordhaysa",
+    "subtitle": "Si wada jir ah, waxaan isbeddel dhab ah ugu samaynaynaa nolosha kumanaan arday ah oo ku kala baahsan dalka oo dhan.",
+    "students": "ardayda cilmiga",
+    "years": "sano oo adeeg ah",
+    "programs": "Barnaamijyo firfircoon",
+    "reach": "Gaadhitaanka dalka oo dhan"
+  },
+  "values": {
+    "title": "Qiimahayaga Asaasiga ah",
+    "quran_sunnah": "Qur’aanka & Sunnaha",
+    "quran_sunnah_desc": "Wax kasta oo aan samayno waxay ku salaysan yihiin baridda saxda ah ee Qur’aanka iyo Sunnaha.",
+    "ikhlas": "Ikhlaas (Daacadnimo)",
+    "ikhlas_desc": "Hadafkayaga waxaa horseed ka ah rabitaan dhab ah oo aan ugu adeegayno Alle iyo taageeridda Umadda.",
+    "amanah": "Amaanada",
+    "amanah_desc": "Waxaan u maamulnaa deeq kasta och mas'uuliyad kasta si daacadnimo sare leh.",
+    "principles": "Mabaadi'da Islaamka",
+    "principles_desc": "Ilaalinta och horumarinta qiimaha joogtada ah ee hiddaha och akhlaaqda Islaamka."
+  },
+  "cta_banner": {
+    "title": "Taageer ardayda aqoonta oo hel ajir joogto ah",
+    "subtitle": "'Marka uu qofku dhinto, camalkiisu wuu go'aa marka laga reebo saddex: Sadaqo socota, aqoon la anfaco, ama ilmo saalix ah oo u soo duceeya.'"
+  },
+  "about": {
+    "title": "Sheekadayada & Hadafkayada",
+    "subtitle": "Safarka iimaanka, waxbarashada, och taageerada bulshada ee wadnaha Itoobiya.",
+    "history": "Taariikhdayada",
+    "history_p1": "Darul-Ulama Majlis waxaa la aasaasay sanadkii 2012 iyadoo ah hay'ad Islaami ah oo u go'day baridda aqoonta Islaamka ee saxda ah. Waxaa aasaasay Sheekh Jamaal Khaliifa, oo ah caalim daacad ah oo in ka badan 20 sano ku qaatay barashada aqoonta Islaamka.",
+    "history_p2": "Waxa ku bilaabmay 300 oo arday waxayna noqotay hay'ad weyn oo u adeegta ku dhawaad 5,000 oo arday oo ka kala yimid guud ahaan Itoobiya.",
+    "growth": "Koraanka & Waxbarashada",
+    "growth_p1": "Manhajkayagu wuxuu daboolayaa maaddooyin kala duwan oo muhiim ah, kuwaas oo ay ka mid yihiin:",
+    "subjects": [
+      "Qur'aanka Kariimka ah (Naasir & Hifdi)",
+      "Bulugh al-Maram",
+      "Riyad al-Salihin",
+      "Fiqiga & Tafsiirka",
+      "Luuqadda Carabiga",
+      "Akhlaaqda Islaamka"
+    ],
+    "growth_p2": "In kasta oo ardayda qaar ay taageeraan qoysaskooda, qaar badan oo kale waxay la kulmaan caqabado adag. In kasta oo ardaydu ay taageeraan qoysaskooda, qaar badan oo kale waxay la kulmaan caqabado adag. Mararka qaar, ardaydu waxay socdaan ilaa 5 kiiloomitir si ay cunto u helaan. Tani waxay keentay in la aasaaso Ururka Islaamiga ah ee Darul-Ulama.",
+    "q1": "Maxuu qabtaa Ururka Islaamiga ah ee Darul-Ulama?",
+    "a1_p1": "Ururka waxaa loo dhisay inuu ka jawaabo baahiyaha bini'aadantinimo och waxbarasho ee degdegga ah. Waxqabadkiisa waxaa ka mid ah:",
+    "a1_list": [
+      "Siinta cunto maalinle ah ardayda aqoonta Islaamka ee Itoobiya oo dhan kuwaas oo aan is biilin karin",
+      "Siinta deeqo ardayda cusub ee soo gashay Islaamka ee baranaya diinta",
+      "Qaybinta xirmooyinka cuntada och deeqaha ee agoonka",
+      "Dhisidda guryaha qoysaska danyarta ah",
+      "Qorshaynta taageerada dadka waayeelka ah mustaqbalka."
+    ],
+    "q2": "Yaa maamula ururka?",
+    "a2": "Ururka waxaa si daacadnimo ah u hoggaamiya madaxweynaha, Sheekh Jamaal Khaliifa, och madaxweyne ku-xigeenka (Amiir), Abdala Adem. Go'aan kasta oo maaliyadeed si dhow ayaa loola socdaa.",
+    "q3": "Sidee sadaqadaadu u gaartaa kuwa u baahan?",
+    "a3": "Ururka Islaamiga ah ee Darul-Ulama wuxuu ku shaqeeyaa nidaam deeqda 100% ah. Tani waxay la macno tahay in shilinka kasta oo aad ku deeqdo uu toos ugu dhacayo halkii loogu talagalay. Deeqda loogu talagalay samafalka waligeed looma isticماalo maamul ama xayeysiis."
+  },
+  "contact": {
+    "title": "Nala soo xiriir",
+    "subtitle": "Ma haysaa su'aalo ku saabsan barnaamijyadayada? Waxaan jeclaan lahayn inaan kaa ngheysano.",
+    "info_title": "Macluumaadka Xiriirka",
+    "address_label": "Cinwaanka",
+    "address_value": "Bole Rwanda, Addis Ababa, Ethiopia",
+    "phone_label": "Wac/WhatsApp",
+    "whatsapp_message": "Fariin noogu soo dir WhatsApp",
+    "email_label": "Email noogu soo dir",
+    "form": {
+      "name": "Magaca oo Buuxa",
+      "name_placeholder": "Magacaaga",
+      "email": "Emailka",
+      "email_placeholder": "email@example.com",
+      "subject": "Mawduuca",
+      "subject_placeholder": "Sideen kuu caawin karnaa?",
+      "message": "Fariinta",
+      "message_placeholder": "Noo sheeg wax badan...",
+      "submit": "Diro Fariinta",
+      "success": "Waad ku mahadsan tahay fariintaada. Dhawaan ayaan kula soo xiriiri doonaa!"
+    }
+  }
+}

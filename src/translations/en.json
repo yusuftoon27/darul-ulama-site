@@ -1,0 +1,223 @@
+{
+  "common": {
+    "donate_now": "Donate Now",
+    "learn_more": "Learn More",
+    "contact_us": "Contact Us",
+    "connect": "Connect with us",
+    "copied": "Copied to clipboard!",
+    "copy_number": "Copy Number",
+    "all_rights": "All rights reserved.",
+    "social_facebook": "Visit our Facebook page",
+    "social_youtube": "Visit our YouTube page",
+    "social_tiktok": "Visit our TikTok page",
+    "social_telegram": "Visit our Telegram channel"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "logo_text": "DARUL-ULAMA",
+    "logo_alt": "Darul-Ulama Islamic Organization Logo"
+  },
+  "footer": {
+    "tagline": "Building knowledge, supporting students, and strengthening the Ummah since 2012.",
+    "quick_links": "Quick Links",
+    "contact": "Contact Us",
+    "islamic_quote": "Islamic Quote",
+    "quote_text": "Whoever guides to good will have a reward like the one who does it.",
+    "quote_author": "Prophet Muhammad (PBUH)"
+  },
+  "hero": {
+    "title": "DARUL-ULAMA ISLAMIC ORGANIZATION",
+    "subtitle": "Building knowledge, supporting students, and strengthening the Ummah.",
+    "cta_mission": "Join the Mission"
+  },
+  "about_preview": {
+    "label": "Who We Are",
+    "title": "Empowering the Next Generation of Scholars",
+    "text": "Established in 2012 G.C., Darul-Ulama Majlis is a respected Islamic institution dedicated to teaching authentic Islamic knowledge. It has grown from 300 students into a prominent center serving nearly 5,000 learners from across Ethiopia.",
+    "cta": "Learn More About Us"
+  },
+  "impact": {
+    "title": "Our Growing Impact",
+    "subtitle": "Together, we are making a tangible difference in the lives of thousands of students across the country.",
+    "students": "students of knowledge",
+    "years": "years of service",
+    "programs": "Active Programs",
+    "reach": "Nationwide Reach"
+  },
+  "values": {
+    "title": "Our Core Values",
+    "quran_sunnah": "Qur’an & Sunnah",
+    "quran_sunnah_desc": "Everything we do is rooted in the authentic teachings of the Qur’an and the Sunnah.",
+    "ikhlas": "Ikhlas (Sincerity)",
+    "ikhlas_desc": "Our mission is driven by a sincere desire to serve Allah and support the Ummah.",
+    "amanah": "Amanah (Trust)",
+    "amanah_desc": "We handle every donation and responsibility with the highest level of integrity.",
+    "principles": "Islamic Principles",
+    "principles_desc": "Preserving and promoting the timeless values of Islamic heritage and ethics."
+  },
+  "cta_banner": {
+    "title": "Support the Seekers of Knowledge and Earn Lasting Rewards",
+    "subtitle": "'When a person dies, his deeds come to an end except for three: Sadaqah Jariyah, knowledge which is beneficial, and a righteous child who prays for him.'"
+  },
+  "about": {
+    "title": "Our Story & Mission",
+    "subtitle": "A journey of faith, education, and community support in the heart of Ethiopia.",
+    "history": "Our History",
+    "history_p1": "Darul-Ulama Majlis was established in 2012 as a respected Islamic public institution dedicated to teaching authentic Islamic knowledge. It was founded by Sheikh Jamal Khalifa, a devoted scholar who spent over 20 years pursuing and mastering Islamic studies.",
+    "history_p2": "What began as a small gathering of 300 students has grown into a prestigious institution serving nearly 5,000 students from across Ethiopia, becoming a beacon of knowledge and guidance.",
+    "growth": "Growth & Education",
+    "growth_p1": "Our curriculum covers a wide range of essential Islamic subjects, including:",
+    "subjects": [
+      "The Noble Quran (Nazer & Hifth)",
+      "Bulugh al-Maram",
+      "Riyad al-Salihin",
+      "Fiqh & Tafsir",
+      "Arabic Language",
+      "Islamic Ethics"
+    ],
+    "growth_p2": "While some students are supported by their families or generous local Muslim communities, many others face serious challenges. In some cases, students walk up to 5 kilometers just to find food, sacrificing valuable time that could be spent learning. This heartbreaking reality led to the establishment of the Darul-Ulama Islamic Organization.",
+    "q1": "What does Darul-Ulama Islamic Organization do?",
+    "a1_p1": "The organization was created under Darul-Ulama Majlis with a clear mission: to respond to urgent humanitarian and educational needs. Its impactful work includes:",
+    "a1_list": [
+      "Providing daily meals to students of Islamic knowledge across Ethiopia who cannot support themselves",
+      "Offering stipends to new converts to Islam who are dedicated to learning and practicing their faith",
+      "Distributing food packages and donations to orphans in various regions",
+      "Building homes for underprivileged families",
+      "Planning to support and feed elderly individuals in the future, without any discrimination based on religion."
+    ],
+    "q2": "Who manages the organization?",
+    "a2": "The organization is led with strong integrity and accountability by its president, Sheikh Jamal Khalifa, along with the vice president (Amir), Abdala Adem. Every financial decision is carefully monitored, and not a single dollar is spent without their direct approval, ensuring full transparency and trust.",
+    "q3": "How does your Sadaqah reach those in need?",
+    "a3": "Darul-Ulama Islamic Organization proudly operates under a 100% donation policy. This means that every single penny you donate goes directly to the cause you choose to support. Project funds and administrative expenses are completely separated. No donation intended for charity work is ever used for marketing, administration, or fundraising. Your trust is honored with complete honesty and care.",
+    "q4": "So, how are operational expenses covered?",
+    "a4_p1": "To maximize the impact of your generosity, the organization uses alternative methods to cover its daily operational costs:",
+    "a4_list": [
+      "Admin Fund: A dedicated fund where supporters can contribute specifically toward administrative expenses",
+      "Gift Aid: Where applicable, Gift Aid contributions are used to support operational costs without affecting the original donation",
+      "Sponsors: Strategic partnerships help expand the organization's reach and strengthen its ability to serve more people in need."
+    ],
+    "legacy_title": "Build Your Legacy",
+    "legacy_text": "Fulfill your Dunya while building your Akhirah. Support our mission and become part of this ongoing mission."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide holistic support to ensure students can focus entirely on their spiritual and academic journey.",
+    "humanity_title": "Serving Humanity Through Faith",
+    "humanity_quote": "'The best of people are those that bring most benefit to the rest of mankind.'",
+    "items": [
+      {
+        "title": "Student Financial Support",
+        "description": "Direct financial assistance to cover living expenses and tuition fees for underprivileged students.",
+        "features": [
+          "Monthly stipends",
+          "Emergency grants",
+          "Travel assistance"
+        ]
+      },
+      {
+        "title": "Food & Daily Needs",
+        "description": "Ensuring every student has access to nutritious meals and basic daily essentials.",
+        "features": [
+          "Community kitchens",
+          "Food basket delivery",
+          "Clean water access"
+        ]
+      },
+      {
+        "title": "Islamic Education Support",
+        "description": "Providing books, teaching materials, and improving classroom environments for better learning.",
+        "features": [
+          "Qur'an copies distribution",
+          "Library building",
+          "Teacher stipends"
+        ]
+      },
+      {
+        "title": "Community & Relief",
+        "description": "Broader social programs to strengthen the local communities where our students live and study.",
+        "features": [
+          "Local outreach",
+          "Health checkups",
+          "Infrastructure repair"
+        ]
+      }
+    ]
+  },
+  "donation": {
+    "title": "Support Our Mission",
+    "subtitle": "Your generosity empowers us to advance our goals and expand our impact. Every contribution—no matter the size—plays a meaningful role in making a lasting difference.",
+    "appeals_header": "Choose from Our Meaningful Appeals",
+    "appeals_intro": "Be part of a powerful change by supporting one of our impactful initiatives:",
+    "other": "Other:",
+    "other_placeholder": "Please specify your donation appeal...",
+    "amount_header": "Enter Your Amount Here",
+    "amount_placeholder": "Enter amount",
+    "qr_title": "Mobile Banking QR Codes",
+    "qr_subtitle": "Scan to donate instantly using your banking app.",
+    "org_id": "Organization ID: DARUL-ULAMA-2012",
+    "intl_title": "International Donations",
+    "intl_text": "Please contact us directly for SWIFT codes and further international transfer.",
+    "appeals": {
+      "students": {
+        "title": "Support Students of Knowledge",
+        "description": "Help nourish a student’s journey of learning with just $3 per day for meals."
+      },
+      "converts": {
+        "title": "Support New Converts to Islam",
+        "description": "Provide both daily meals and a stipend for students who have embraced Islam — $4 per person."
+      },
+      "water": {
+        "title": "Drill a Water Well",
+        "description": "Give the gift of clean, life-saving water to an entire community — $7,000 per well."
+      },
+      "mosque": {
+        "title": "Build a Mosque",
+        "description": "Contribute to building a house of worship and unity. The cost varies depending on the size and location."
+      },
+      "orphans": {
+        "title": "Support Orphans",
+        "description": "Bring hope and care to a child in need — contributions start from just $5."
+      },
+      "food": {
+        "title": "Provide Food Packs for Families",
+        "description": "Feed a struggling family with essential supplies for only $10 per family."
+      },
+      "homes": {
+        "title": "Build Homes for the Homeless",
+        "description": "Help restore dignity and shelter by building a home — approximately $2,000 per house."
+      }
+    },
+    "methods": {
+      "cbe": "CBE (Commercial Bank of Ethiopia)",
+      "teleBirr": "Tele Birr",
+      "cbo": "CBO (Cooperative Bank of Oromia)",
+      "awash": "Awash Bank",
+      "ebirr": "E-birr"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions about our programs or want to get involved? We'd love to hear from you.",
+    "info_title": "Contact Information",
+    "address_label": "Address",
+    "address_value": "Bole Rwanda, Addis Ababa, Ethiopia",
+    "phone_label": "Call/WhatsApp",
+    "whatsapp_message": "Message on WhatsApp",
+    "email_label": "Email Us",
+    "form": {
+      "name": "Full Name",
+      "name_placeholder": "Your Name",
+      "email": "Email Address",
+      "email_placeholder": "email@example.com",
+      "subject": "Subject",
+      "subject_placeholder": "How can we help?",
+      "message": "Message",
+      "message_placeholder": "Tell us more about your inquiry...",
+      "submit": "Send Message",
+      "success": "Thank you for your message. We will get back to you soon!"
+    }
+  }
+}

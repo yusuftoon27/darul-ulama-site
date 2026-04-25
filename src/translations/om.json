@@ -1,0 +1,123 @@
+{
+  "common": {
+    "donate_now": "Amma Kenni",
+    "learn_more": "Xeqqi Baradhu",
+    "contact_us": "Nu Quunnamaa",
+    "connect": "Nuun wal quunnamaa",
+    "copied": "Waraabameera!",
+    "copy_number": "Lakkoofsa Waraabi",
+    "all_rights": "Mirgi hundu kan eegamedha."
+  },
+  "nav": {
+    "home": "Fuula Dura",
+    "about": "Waa'ee Keenya",
+    "services": "Tajaajila",
+    "contact": "Nu Quunnamaa",
+    "logo_text": "DARUL-ULAMA",
+    "logo_alt": "Mallattoo Dhaabbata Islaamaa Darul-Ulamaa"
+  },
+  "footer": {
+    "tagline": "Bara 2012 eegalee beekumsa ijaaruu, barattoota deeggaruu fi Ummah jabeessuu irratti hojjechaa jirra.",
+    "quick_links": "Liinkii Ariifachiisaa",
+    "contact": "Nu Quunnamaa",
+    "islamic_quote": "Jecha Islaamaa",
+    "quote_text": "Namni gara waan gaariitti qajeelche badhaasa akka nama sun hojjatee ni qabaata.",
+    "quote_author": "Nabiyyii Muhammad (SAW)"
+  },
+  "hero": {
+    "title": "DHAABBATA ISLAAMAA DARUL-ULAMA",
+    "subtitle": "Beekumsa ijaaruu, barattoota deeggaruu fi Ummah jabeessuu.",
+    "cta_mission": "Ergaa Keenyaatti Dabalami"
+  },
+  "about_preview": {
+    "label": "Eenyu Nutis",
+    "title": "Dhaloota Ulamaa Itti Aanu Humneessuu",
+    "text": "Bara 2012 G.C. kan hundeeffame, Majlisni Darul-Ulamaa dhaabbata Islaamaa kabajamaa beekumsa Islaamaa dhugaa barsiisuuf of kenneedha. Barattoota 300 irraa ka'ee Itoophiyaa guutuu irraa barattoota 5,000 tajaajilaa jira.",
+    "cta": "Waa'ee Keenya Caalaatti Bari"
+  },
+  "impact": {
+    "title": "Dhiibbaa Keenya Guddachaa Jiru",
+    "subtitle": "Waliin ta'uun, jireenya barattoota kumaatamaa biyya guutuu keessatti jijjiirama fidaa jirra.",
+    "students": "barattoota beekumsaa",
+    "years": "waggoota tajaajilaa",
+    "programs": "Sagantaalee Hojii Irra Jiran",
+    "reach": "Biyya Guutuu"
+  },
+  "values": {
+    "title": "Giddu-galeessa Keenya",
+    "quran_sunnah": "Qur’aana & Sunnah",
+    "quran_sunnah_desc": "Wanti nuti hojjennu hundu barumsa dhugaa Qur’aana fi Sunnah irratti hundaa'a.",
+    "ikhlas": "Ikhlaas (Qulqullummaa)",
+    "ikhlas_desc": "Ergaan keenya fedhii qulqulluu Allaah tajaajiluu fi Ummah deeggaruun kan deeggarameedha.",
+    "amanah": "Amaanaa (Amanamummaa)",
+    "amanah_desc": "Gumaacha fi itti gaafatamummaa hunda amanamummaa guddaadhaan hammaanna.",
+    "principles": "Seera Islaamaa",
+    "principles_desc": "Aadaa fi naamusni Islaamaa yeroo hunda akka turu gochuu."
+  },
+  "cta_banner": {
+    "title": "Barattoota Beekumsaa Deeggari Akka Milkaa'uuf",
+    "subtitle": "'Yeroo namni du'u, hojiin isaa hundi addaan cita, waan sadii malee: Sadaqaa Jariyaa, beekumsa nama fayyadu, ykn mucaa gaarii isaaf du'aa'ii godhu.'"
+  },
+  "about": {
+    "title": "Seenaa fi Ergaa Keenya",
+    "subtitle": "Giddu-galeessa Itoophiyaa keessatti imala amantii, barnootaa fi deeggarsa hawaasaa.",
+    "history": "Seenaa Keenya",
+    "history_p1": "Majlisni Darul-Ulamaa bara 2012 keessa dhaabbata Islaamaa beekumsa dhugaa barsiisuuf hundeeffame. Kan hundeesse Sheek Jamall Kalifaa yoo ta'an, waggaa 20 oliif barumsa Islaamaa barachuu fi dandeettii qabaachuuf dabarsaniiru.",
+    "history_p2": "Barattoota 300 irraa ka'ee Itoophiyaa guutuu irraa barattoota 5,000 tajaajilaa jira.",
+    "growth": "Guddina fi Barnoota",
+    "growth_p1": "Barnoonni keenya gosa barnootaa Islaamaa barbaachisoo ta'an kanneen armaan gadii of keessatti qabata:",
+    "subjects": [
+      "Qur’aana Kabajamaa (Naazir & Hifz)",
+      "Buluugh al-Maraam",
+      "Riyaad al-Saalihiin",
+      "Fiqhii & Tafsiira",
+      "Afaan Arabaa",
+      "Naamusaa Islaamaa"
+    ],
+    "growth_p2": "Barattoonni baay'een rakkoo guddaa keessa jiru. Yeroo tokko tokko barattoonni soorata argachuuf kiloomeetira 5 deemu. Rakkoon kun dhaabbata kana akka hundoofnu nu taasise.",
+    "q1": "Dhaabbanni Islaamaa Darul-Ulamaa maal hojjeta?",
+    "a1_p1": "Dhaabbanni kun Majlisii Darul-Ulamaa jalatti kan hundeeffame yoo ta'u, ergaa ifa ta'e qaba: rakkoo namoomaa fi barnootaaf deebii kennuu.",
+    "a1_list": [
+      "Barattoota beekumsa Islaamaa Itoophiyaa guutuu keessatti argaman kan of danda'u hin dandeenyeef soorata guyyaa guyyaa kennuu",
+      "Namoota haaraa gara Islaamaatti deebi'an kan barumsa irratti jiran deeggaruu",
+      "Kutaalee biyyaa adda addaa keessatti soorata fi gumaacha iyyantotaaf ( orphans) raabsuu",
+      "Maatiiwwan hiyyeeyyiif manneen ijaaruu",
+      "Gara fuulduraatti namoota maanguddoo ta'an amantii osoo hin loogin gargaaruu."
+    ],
+    "q2": "Dhaabbata kana eenyutu bulcha?",
+    "a2": "Dhaabbata kana amanamummaa fi itti gaafatamummaa guddaadhaan pirezidaantii isaa Sheek Jamall Kalifaa fi itti aanaa pirezidaantii (Amiir) Abdallaa Adam bulchu. Murteen maallaqaa hundi xiyyeeffannoo guddaadhaan hordofama.",
+    "q3": "Sadaqaan keessan akkamitti namoota rakkoo qaban bira ga'a?",
+    "a3": "Dhaabbanni keenya imaammata gumaacha 100% irratti hojjeta. Kunis jechuun maallaqni isin gumaachitan hundu kallattiidhaan tajaajila isin filattaniif oola. Gumaachi tajaajila qulqulluuf oolu beeksisa ykn bulchiinsaaf hin oolu.",
+    "q4": "Baasiin hojii akkamitti uwwifama?",
+    "a4_p1": "Baasii hojii guyyaa guyyaa uwwisuuf dhaabbanni keenya mala biraa fayyadama:",
+    "a4_list": [
+      "Admin Fund: Fundii namoonni baasii bulchiinsaaf qofa gumaachaniidha",
+      "Gift Aid: Yoo danda'ame baasii hojiif oola",
+      "Sponsors: Walta'iinsi adda addaa guddina dhaabbataaf nu gargaara."
+    ],
+    "legacy_title": "Dhalootaaf Waan Gaarii Hoji",
+    "legacy_text": "Akhiroo keessan ijaarachaa dunyaa keessan guuttadhaa. Ergaa keenya deeggaraa."
+  },
+  "contact": {
+    "title": "Nu Quunnamaa",
+    "subtitle": "Gaaffii qabdu ykn hirmaachuu barbaaddu? Isin irraa dhaga'uu barbaanna.",
+    "info_title": "Odeeffannoo Quunnamtii",
+    "address_label": "Teessoo",
+    "address_value": "Bole Rwanda, Addis Ababa, Ethiopia",
+    "phone_label": "Bilbila/WhatsApp",
+    "whatsapp_message": "WhatsApp irratti ergaa ergaa",
+    "email_label": "Imeelii",
+    "form": {
+      "name": "Maqaa Guutuu",
+      "name_placeholder": "Maqaa keessan",
+      "email": "Imeelii",
+      "email_placeholder": "email@example.com",
+      "subject": "Dhimma keessan",
+      "subject_placeholder": "Akkamitti isin gargaarru?",
+      "message": "Ergaa",
+      "message_placeholder": "Waan quunnamtii keessanii bal'inaan nuuf ibsaa...",
+      "submit": "Ergaa Ergi",
+      "success": "Galatoomaa ergaa keessaniif. Dhiyootti isin quunnamna!"
+    }
+  }
+}

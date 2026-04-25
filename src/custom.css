@@ -1,0 +1,263 @@
+@reference "tailwindcss";
+
+:root {
+  --background: #FAFAFA;
+  --foreground: #333333;
+  --card: #FFFFFF;
+  --card-foreground: #333333;
+  --popover: #FFFFFF;
+  --popover-foreground: #333333;
+  --primary: #6F4E37;
+  --primary-foreground: #FAFAFA;
+  --secondary: #C2B280;
+  --secondary-foreground: #333333;
+  --muted: #EADDCA;
+  --muted-foreground: #666666;
+  --accent: #EADDCA;
+  --accent-foreground: #6F4E37;
+  --destructive: #EF4444;
+  --destructive-foreground: #FAFAFA;
+  --border: #EADDCA;
+  --input: #EADDCA;
+  --ring: #6F4E37;
+  --radius: 0.75rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+}
+
+.dark {
+  --background: #1A1A1A;
+  --foreground: #FAFAFA;
+  --card: #262626;
+  --card-foreground: #FAFAFA;
+  --popover: #262626;
+  --popover-foreground: #FAFAFA;
+  --primary: #C2B280;
+  --primary-foreground: #1A1A1A;
+  --secondary: #6F4E37;
+  --secondary-foreground: #FAFAFA;
+  --muted: #333333;
+  --muted-foreground: #A1A1A1;
+  --accent: #333333;
+  --accent-foreground: #C2B280;
+  --border: #333333;
+  --input: #333333;
+  --ring: #C2B280;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+  }
+  
+  @media (max-width: 640px) {
+    html {
+      font-size: 14px;
+    }
+  }
+
+  body {
+    @apply antialiased;
+    overflow-x: hidden;
+    width: 100%;
+  }
+}
+
+/* Scroll-Triggered Fade-In-Up Animation for Images (Preserved) */
+img {
+  opacity: 0;
+  transform: translateY(30px);
+  will-change: opacity, transform;
+}
+
+img.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+/* Scroll-Triggered Fade-In-Up Animation for Text Elements */
+h1, h2, h3, h4, h5, h6, p, li, figcaption {
+  opacity: 0;
+  transform: translateY(25px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+  will-change: opacity, transform;
+}
+
+h1.is-visible,
+h2.is-visible,
+h3.is-visible,
+h4.is-visible,
+h5.is-visible,
+h6.is-visible,
+p.is-visible,
+li.is-visible,
+figcaption.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.logo-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.stats-highlight-section {
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.stats-highlight-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.stats-highlight-text {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Accordion Animations */
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.accordion-content.open {
+  max-height: 2000px;
+}
+
+/* Refactored Accordion Layout for Donation Page */
+.accordion-item-vertical {
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100%;
+}
+
+/* Explicitly position header above content and reduce gap when open */
+.accordion-item-vertical[data-state="open"] [data-slot="accordion-trigger"] {
+  padding-bottom: 0 !important;
+}
+
+/* Ensure the content paragraph is directly below the header with proper margin */
+.accordion-item-vertical [data-slot="accordion-content"] p:first-of-type {
+  margin-top: var(--spacing-sm) !important;
+  margin-bottom: var(--spacing-md);
+}
+
+/* Adjust spacing for any inner containers to ensure vertical alignment */
+.accordion-item-vertical [data-slot="accordion-content"] > div {
+  padding-top: 0 !important;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Support for the "Enter Your Amount" input section */
+.accordion-item-vertical [data-slot="accordion-content"] div.mt-4 {
+  margin-top: var(--spacing-sm) !important;
+}
+
+/* Visual states for the header */
+.accordion-item-vertical [data-slot="accordion-trigger"] {
+  transition: all 0.2s ease-in-out;
+}
+
+.accordion-item-vertical [data-slot="accordion-trigger"]:hover {
+  background-color: color-mix(in srgb, var(--muted) 30%, transparent);
+  text-decoration: none !important;
+}
+
+.accordion-item-vertical [data-slot="accordion-trigger"]:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Slider Specific Styles */
+.image-slider-container {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  margin-top: 1.5rem;
+}
+
+/* Home Page Hero Background */
+.home-hero-bg-container {
+  background-image: url('https://storage.googleapis.com/dala-prod-public-storage/attachments/4e57af54-abe5-4b55-934f-fd1221fc0870/1776782035237_IMG-20260418-WA0022.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+/* International Donations Section */
+.intl-donations-section {
+  background-color: #f5f2e8;
+}
+
+.dark .intl-donations-section {
+  background-color: #2a261c;
+}
+
+/* Appeal List Interactions */
+.appeal-item {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid transparent;
+}
+
+.appeal-item:hover {
+  transform: translateX(5px);
+  background-color: color-mix(in srgb, var(--muted) 50%, transparent);
+}
+
+.appeal-item.is-active {
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+  border-color: var(--primary);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+#appeal-description-display {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Responsive Utilities */
+.responsive-container {
+  @apply w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.fluid-heading-1 {
+  font-size: clamp(2.25rem, 5vw + 1rem, 4.5rem);
+  line-height: 1.1;
+}
+
+.fluid-heading-2 {
+  font-size: clamp(1.75rem, 3vw + 1rem, 3rem);
+  line-height: 1.2;
+}
+
+/* Image Slider Enhancements */
+.slider-dot-active {
+  width: 1.5rem !important;
+  background-color: white !important;
+}
