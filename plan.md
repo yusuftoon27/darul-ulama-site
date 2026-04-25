@@ -1,16 +1,13 @@
-# Plan: Update Islamic Quote Content
+# Plan: Integrate Favicon
 
-The Islamic quote in the footer has been updated across all supported languages to "Whoever guides to good will have a reward like the one who does it."
+The goal is to integrate a specific image as the website's favicon.
 
-## Completed Steps
-1.  **Read and Parse Translation Files**: Verified current quote keys in `en.json`, `ar.json`, `am.json`, `om.json`, and `so.json`.
-2.  **Update Quotes**: Replaced the previous quote with the new one and removed unnecessary single quotes from inside the JSON values for a cleaner display.
-    - **English**: "Whoever guides to good will have a reward like the one who does it."
-    - **Arabic**: "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ"
-    - **Amharic**: "ወደ መልካም ነገር የመራ ሰው ያንኑ የሰራውን ያህል ምንዳ ያገኛል፡፡"
-    - **Oromo**: "Namni gara waan gaariitti qajeelche badhaasa akka nama sun hojjatee ni qabaata."
-    - **Somali**: "Qofkii khayr dadka ku hanuuniya wuxuu leeyahay ajir la mid ah kan sameeyey."
-3.  **Verification**: Called `validate_build` to ensure the project remains stable.
+## Steps
+1. **Download Image**: Use `curl` to download the image from the provided URL and save it as `public/favicon.ico`.
+2. **Update HTML**: Modify `index.html` to update the favicon link tag to `<link rel="icon" type="image/x-icon" href="/favicon.ico">`.
+3. **Verification**: Run `validate_build` to ensure the project remains stable and the favicon is correctly referenced.
 
-## Expected Result
-The footer on all pages now displays the updated Islamic quote in the selected language.
+## Technical Details
+- Source URL: `https://storage.googleapis.com/dala-prod-public-storage/attachments/4e57af54-abe5-4b55-934f-fd1221fc0870/1777092099056_photo_2026-04-06_21-14-20.jpg`
+- Target Path: `public/favicon.ico`
+- HTML Change: Update `<link rel="icon" ... />` in `<head>`.
